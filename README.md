@@ -20,8 +20,8 @@ A simple quiz application build using php.
 
 # ScreenShots
 
-![snap1](screenShots/snap1.JPG)
+![snap1](screenshots/snap1.JPG)
 
-![snap2](screenShots/snap5.JPG)
+![snap2](screenshots/snap5.JPG)
 
-![snap3](screenShots/snap6.JPG)
+![snap3](screenshots/snap6.JPG)
